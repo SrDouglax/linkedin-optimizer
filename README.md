@@ -38,5 +38,3 @@ Due to LinkedIn's privacy layers, automatic scraping is often blocked. For a **W
 - **Fluidity**: Framer Motion
 
 ---
-
-_Built for developers and professionals who want a fast, local way to refine their career narrative._
