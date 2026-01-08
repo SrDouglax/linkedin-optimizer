@@ -20,7 +20,7 @@ A **minimalist, high-performance** AI assistant to audit your LinkedIn presence 
    ```
 
 3. **Get Results**
-   Open `http://localhost:5173`. You'll need a API Key from [Google AI Studio](https://aistudio.google.com/app/apikey).
+   Open `http://localhost:5173`. You'll need a [Google AI Studio API Key](https://aistudio.google.com/app/apikey).
 
 ## 💡 How to Audit
 
