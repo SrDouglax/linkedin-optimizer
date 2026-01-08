@@ -2,16 +2,14 @@
 
 A **minimalist, high-performance** AI assistant to audit your LinkedIn presence and strategic growth. Powered by **Gemini 3 Flash**.
 
-## ✨ Why this works
-
-LinkedIn profiles are hard to audit manually. This tool uses **Gemini 3 Flash** to analyze your strengths and provide an interactive **Career Coach** to rewrite your summary or experience in real-time.
+> **Built with AI:** Created to provide a quick solution for a specific need.
 
 ## 🛠️ Minimal Setup
 
 1. **Clone & Install**
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/SrDouglax/linkedin-optimizer
    npm install
    ```
 
@@ -22,7 +20,7 @@ LinkedIn profiles are hard to audit manually. This tool uses **Gemini 3 Flash** 
    ```
 
 3. **Get Results**
-   Open `http://localhost:5173`. You'll need a free API Key from [Google AI Studio](https://aistudio.google.com/app/apikey).
+   Open `http://localhost:5173`. You'll need a API Key from [Google AI Studio](https://aistudio.google.com/app/apikey).
 
 ## 💡 How to Audit
 
